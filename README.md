@@ -10,7 +10,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Zann-apk" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
   <img align="center" alt="Zann-kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
-   <img align="right" img height="130" alt="fox" src="https://media.giphy.com/media/xsE65jaPsUKUo/giphy.gif">
+   <img align="right" img height="180" alt="fox" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
 </div>
   
   ##
