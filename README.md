@@ -1,6 +1,9 @@
 ## Olá, me chamo Zannardy Andrade Oliveira!👋
 - #### 📚 Estudante de Engenharia de Software na Uninter
 - #### 👩‍💻 Membro Desenvolvedor Android na Google DSC Uninter
+
+ <img align="right" img height="180" alt="google_dsc_uninter" src="https://developers.google.com/profile/badges/community/dsc/2021/member/badge.svg">
+ 
 ##
 <div>
   <a href="https://github.com/ZannF0x">
