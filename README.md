@@ -1,9 +1,10 @@
 ## Olá, me chamo Zannardy Andrade Oliveira!👋
 - #### 📚 Estudante de Engenharia de Software na [UNINTER](https://www.uninter.com/)
-- #### 👩‍💻 Desenvolvedor Android na [MobApps](https://www.linkedin.com/company/mobappsbrasil/)
-- #### 👩‍💻 Membro Desenvolvedor Android na [Google DSC Uninter](https://www.linkedin.com/company/gdsc-uninter/mycompany/)
+- #### 👩‍💻 Desenvolvedor Android Júnior na [Popcode](https://www.linkedin.com/company/popcodemobile/)
+- #### 👩‍💻 Ex-Membro Desenvolvedor Android na [Google DSC Uninter](https://www.linkedin.com/company/gdsc-uninter/mycompany/)
+
 <div>
- <img align="center" img height="90" alt="mob_apps" src="https://mobapps.com.br/src/images/marca.svg">
+ <img align="center" img height="90" alt="popcode_image" src="https://media.glassdoor.com/sqll/2840737/popcode-mobile-solutions-squarelogo-1638873749783.png">
  <img align="center" img height="120" alt="google_dsc_uninter" src="https://developers.google.com/profile/badges/community/dsc/2021/member/badge.svg">
  <img align="center" img height="100" alt="android" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/OS-Android-icon.png">
 </div> 
