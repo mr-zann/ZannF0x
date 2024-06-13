@@ -4,7 +4,6 @@
 - #### 👩‍💻 Ex-Membro Desenvolvedor Android na [Google DSC Uninter](https://www.linkedin.com/company/gdsc-uninter/mycompany/)
 
 <div>
- <img align="center" img height="90" alt="popcode_image" src="https://media.licdn.com/dms/image/C4D0BAQGIDpSYqOweeg/company-logo_200_200/0/1654517503104/popcodemobile_logo?e=1710374400&v=beta&t=jzjI0Ws0cku9_gWyYfnGd1E9NKJaXXdqvYD21b0O6DM">
  <img align="center" img height="120" alt="google_dsc_uninter" src="https://developers.google.com/profile/badges/community/dsc/2021/member/badge.svg">
  <img align="center" img height="100" alt="android" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/OS-Android-icon.png">
 </div> 
