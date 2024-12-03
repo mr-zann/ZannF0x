@@ -1,7 +1,4 @@
 ## Olá, me chamo Zannardy Andrade Oliveira!👋
-- #### 📚 Estudante de Engenharia de Software na [UNINTER](https://www.uninter.com/)
-- #### 👩‍💻 Desenvolvedor Android Júnior na [Popcode](https://www.linkedin.com/company/popcodemobile/)
-- #### 👩‍💻 Ex-Membro Desenvolvedor Android na [Google DSC Uninter](https://www.linkedin.com/company/gdsc-uninter/mycompany/)
 
 <div>
  <img align="center" img height="120" alt="google_dsc_uninter" src="https://developers.google.com/profile/badges/community/dsc/2021/member/badge.svg">
