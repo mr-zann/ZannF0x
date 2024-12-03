@@ -1,9 +1,4 @@
-## Olá, me chamo Zannardy Andrade Oliveira!👋
-
-<div>
- <img align="center" img height="120" alt="google_dsc_uninter" src="https://developers.google.com/profile/badges/community/dsc/2021/member/badge.svg">
- <img align="center" img height="100" alt="android" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/OS-Android-icon.png">
-</div> 
+Olá, me chamo **Zannardy Andrade Oliveira**, mas pode me chamar de **Zann**!👋
  
 ##
 <div>
